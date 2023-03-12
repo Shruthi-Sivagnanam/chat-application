@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510167258",
+    "project_id": "blog-11788",
+    "storage_bucket": "blog-11788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510167258:android:3b6e15591438a57747fde3",
+        "android_client_info": {
+          "package_name": "com.example.talkonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510167258-lda9l7t1brms6ljb79jsrurhjtmn26vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD27uJdAO39p2_lMzcrf4B6-WlxJ5WF89g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510167258-lda9l7t1brms6ljb79jsrurhjtmn26vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
